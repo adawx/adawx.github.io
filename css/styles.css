@@ -1,0 +1,13 @@
+canvas {
+    display: block;
+    margin: 20px auto;
+    border: 1px solid #666;
+    height: 60vh;
+    width: 80vh;
+}
+
+h1 {
+    /* align-content: center;
+    justify-content: center; */
+    text-align: center;
+}
